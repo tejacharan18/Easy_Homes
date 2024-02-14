@@ -1,0 +1,67 @@
+.navbar
+{
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    background: #800000;
+    height: 13vmin;
+}
+.left
+{
+    flex:1;
+    color: white;
+    font-size: 1.2rem;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 1.02rem;
+}
+.right
+{
+    flex:1;
+}
+.right .lists ul 
+{
+    list-style-type: none;
+    display: inline-flex;
+    gap: 4rem;
+    font-size: 1.5rem;
+    color: white;
+    justify-content: center;
+}
+.right .lists ul li:hover{
+    cursor: pointer;
+    color: #ffff33;
+}
+.search
+{
+    width: 40%;
+    height: 30px;
+    margin-left: 30px;
+    background-color: white;
+    
+}
+.sbutton
+{
+    width: 10%;
+    height: 36px;
+    margin-left: 0.5rem;
+    background-color: white;
+    /* border: #800000; */
+}
+.sbutton:hover
+{
+    cursor: pointer;
+    background-color:yellow;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+a:hover{
+    text-decoration: none;
+    color:yellow;
+}
+.logo
+{
+    margin-top: -15px;
+}

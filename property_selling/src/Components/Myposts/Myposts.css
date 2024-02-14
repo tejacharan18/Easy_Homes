@@ -1,0 +1,27 @@
+.nopost{
+    margin-left: 500px;
+    color:white;
+    margin-top: 100px;
+}
+.heading
+{
+    margin-left: 570px;
+    color:yellow;
+    margin-bottom: 50px;
+    text-decoration:dashed;
+}
+.deletepost
+{
+    background-color: #3498db;
+    border-radius: 5%;
+    margin-left: 200px;
+    color:white;
+    margin-bottom: 30px;
+}
+.deletepost:hover{
+    background-color: red;
+}
+.hit
+{
+    height: 100vh;
+}

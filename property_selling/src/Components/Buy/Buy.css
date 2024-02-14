@@ -1,0 +1,76 @@
+.carde {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 45%; /* Adjust width to fit two posts side by side */
+  margin: 20px; /* Add margin to space the posts */
+  display: inline-block; /* Allow posts to display side by side */
+  vertical-align: top; /* Align posts at the top */
+  height:90vh;
+}
+.price h1
+{
+  background-color: white;
+}
+.price
+{
+  margin-left: 130px;
+  margin-bottom: -30px;
+
+}
+.card-header {
+  background-color: #3498db;
+  color: #fff;
+  padding: 15px;
+  text-align: center;
+  height: 150px;
+}
+.card-header h1,.card-header p{
+  background-color: #3498db;
+}
+.card-body {
+  padding: 20px;
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.initials p strong {
+  background-color: white;
+  color: black;
+}
+
+.initials {
+  background-color: white;
+  font-size: 16px;
+}
+
+.sols {
+  background-color: white;
+  margin-left: -80px;
+}
+
+.initials p {
+  background-color: white;
+  color: black;
+}
+
+.card-body p {
+  background-color: white;
+  color: black;
+}
+.search
+{
+  margin-left: 300px;
+}
+.nopostsfound
+{
+  color: white;
+  margin-left:400px ;
+}
+.posts-container
+{
+  margin-top: 50px;
+}

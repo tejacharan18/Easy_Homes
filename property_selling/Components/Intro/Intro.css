@@ -1,0 +1,39 @@
+.i-left
+{
+background: #800000;
+flex: 1;
+color: white;
+gap: 2rem;
+padding-left: 40px;
+
+}
+.content
+{
+    line-height: 1.5rem;
+    font-family: sans-serif;
+}
+.i-left span:nth-child(1)
+{
+    font-size: 4rem;
+}
+.i-left span:nth-child(2)
+{
+font-size: 1.5rem;
+}
+.intro
+{
+    display: flex;
+    justify-items: space-between;
+    font-family: Gumela;
+    height: auto;
+}
+
+.i-right img
+{
+width: 100%;
+/* height: 80%; */
+}
+@font-face {
+    font-family: 'Gumela';
+    src: url('../../Fonts/Gumela\ Regular.otf');
+}

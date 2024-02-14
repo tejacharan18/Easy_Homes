@@ -1,0 +1,27 @@
+.read{
+
+    margin: 20px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.read>*,.read ol li,.read ol li strong,p strong
+{
+    background-color:white;
+}
+.read input{
+    width: 300px;
+    height:30px;
+}
+.link{
+    color:blue;
+    background-color: white;
+}
+.link:hover{
+    color:#800000;
+}
+.del{
+    width:10%;
+    background-color: red;
+    color: white;
+}
